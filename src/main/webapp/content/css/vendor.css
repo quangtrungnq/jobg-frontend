@@ -1,0 +1,35 @@
+/* after changing this file run 'yarn run webpack:build' */
+/*@import '~bootstrap/dist/css/bootstrap.min.css';*/
+@import '~font-awesome/css/font-awesome.css';
+
+/*// <!-- Google Fonts -->*/
+/*@import 'https://fonts.googleapis.com/css?family=Open+Sans:300,400,600,700';*/
+@import '../../assets/vendor/bootstrap/bootstrap.min.css';
+@import '../../assets/vendor/icon-awesome/css/font-awesome.min.css';
+/*<!-- CSS Global Icons -->*/
+@import '../../assets/vendor/icon-line/css/simple-line-icons.css';
+@import '../../assets/vendor/icon-etlinefont/style.css';
+@import '../../assets/vendor/icon-line-pro/style.css';
+@import '../../assets/vendor/icon-hs/style.css';
+/*@import '../../assets/vendor/dzsparallaxer/dzsparallaxer.css';*/
+/*@import '../../assets/vendor/dzsparallaxer/dzsscroller/scroller.css';*/
+/*@import '../../assets/vendor/dzsparallaxer/advancedscroller/plugin.css';*/
+@import '../../assets/vendor/animate.css';
+@import '../../assets/vendor/jquery-ui/themes/base/jquery-ui.min.css';
+@import '../../assets/vendor/hs-megamenu/src/hs.megamenu.css';
+@import '../../assets/vendor/hamburgers/hamburgers.min.css';
+
+ /*<!-- Show / Copy Code -->*/
+/*@import '../../assets/vendor/malihu-scrollbar/jquery.mCustomScrollbar.min.css';*/
+@import '../../assets/vendor/prism/themes/prism.css';
+@import '../../assets/vendor/custombox/custombox.min.css';
+
+/*<!-- CSS Unify -->*/
+@import '../../assets/css/unify.css';
+@import '../../assets/css/unify-components.css';
+@import '../../assets/css/unify-core.css';
+@import '../../assets/css/unify-globals.css';
+@import '../../assets/css/unify-style-switcher.css';
+
+/*<!-- CSS Customization -->*/
+@import '../../assets/css/custom.css';
